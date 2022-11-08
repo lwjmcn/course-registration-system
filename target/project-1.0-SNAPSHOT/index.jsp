@@ -6,8 +6,8 @@
     <title>메인페이지</title>
 </head>
 <body>
-	<script>
-		location.href = 'main.jsp';
-	</script>
+<script>
+    location.href = 'main.jsp';
+</script>
 </body>
 </html>

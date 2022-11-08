@@ -3,11 +3,11 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html"; charset="UTF-8">
-    <title>로그인 액션</title>
+    <title>Logout Action</title>
 </head>
 <body>
     <%
-    	session.invalidate();
+    	session.invalidate(); //로그아웃
     %>
 	<script>
 		location.href = 'main.jsp';
