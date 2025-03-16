@@ -1,5 +1,9 @@
 # Course Registration System
 
+## 시연 영상
+
+https://youtu.be/__p-3GG7yqc
+
 ## 개발환경
 
 Window10 / IntelliJ IDEA / MySQL
